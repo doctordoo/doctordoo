@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doctordoolittle
-- 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... java and python refreshers  
+- 👀 I’m interested in ... Product Management / Project Management, TPM, Software Dev, Web3-Web5, AI, Crypto.
+- 🌱 I’m currently learning ... java and python refreshers, SQL (relational database)  
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... raffd565@protonmail.ch 
 
