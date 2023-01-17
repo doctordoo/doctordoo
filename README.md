@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doctordoolittle CPO for video game industry stuff and tech start-ups - constant learner & business man. I love all types of music and sports (including E-Sports)
-- 👀 I’m interested in ... Product Management / Project Management, TPM, Software Dev, Web3-Web5, AI, Crypto.
+- 👀 I’m interested in ... Product Management / Project Management, TPM, Software Dev, Web3-Web5, AI, Blockchain developement.
 - 🌱 I’m currently learning ... java and python refreshers, SQL (relational database)  
 - :thought_balloon: I’m looking to collaborate on ... anything
 - 📫 How to reach me ... Telegram app / Signal app are best (reach out through those) reach out on my twitch stream for those https://www.twitch.tv/rdoolitt 
