@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... java and python refreshers, SQL (relational database)  
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... raffd565@protonmail.ch 
+- I've gotten to work with USAF, Big Run Studios, and Amazon. I'm looking forward to upcoming projects and collaborations with all types of teams and people.
 
 <!---
 doctordoo/doctordoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
