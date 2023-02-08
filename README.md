@@ -9,3 +9,4 @@
 doctordoo/doctordoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+*Disclaimer - I am not responsible for legal, tech, video game, or business practice methods while working with me. If issues arise we can resolve issues with my legal council in a civil manner.
